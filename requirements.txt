@@ -68,7 +68,7 @@ sortedcontainers==2.4.0
 soupsieve==2.5
 sqlparse==0.4.4
 starlette==0.35.1
-streamlit==1.30.0
+streamlit==1.43.2
 streamlit-autorefresh==1.0.1
 tenacity==8.2.3
 toml==0.10.2
