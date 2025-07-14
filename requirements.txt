@@ -42,7 +42,7 @@ pandas==2.2.0
 pillow==10.2.0
 plotly==5.19.0
 pluggy==1.4.0
-protobuf==4.21.12
+protobuf==4.25.8
 psutil==5.9.8
 pyarrow==15.0.0
 pydantic==2.6.0
@@ -80,7 +80,7 @@ typing_extensions==4.9.0
 tzdata==2023.4
 tzlocal==5.2
 undetected-chromedriver==2.0.0
-urllib3==2.1.0
+urllib3==2.5.0
 uvicorn==0.27.0.post1
 validators==0.22.0
 websockets==12.0
